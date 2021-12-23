@@ -1,6 +1,9 @@
 01arjitsahu
-### Hello , I'm Arjit Sahu 
+### Hello , My name is Arjit Sahu.
+###I am student of IT branch.
+####i am pursuing B.Tech from gncsgi.
 
-<br>
+<<<<<<< Updated upstream
 
-####i am pursuing btech from gncsgi
+=======
+>>>>>>> Stashed changes
